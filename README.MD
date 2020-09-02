@@ -1,13 +1,11 @@
-# react-native-aes-kit
+# @figureai/react-native-aes-kit
 
 > AES-CBC-PKCS5Padding
 
 ## Install 
 
 ```
-npm i --S react-native-aes-kit
-
-react-native link react-native-aes-kit
+yarn add @figureai/react-native-aes-kit
 ```
 
 
